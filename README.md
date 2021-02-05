@@ -2,11 +2,11 @@
   Thrive Global: code challenge
 </h1>
 
-##Description
+## Description
 The application was created for the code challenge. The application allows to embed videos and allows to add custom navigation link.
 
 ##Quick start
-1.  **Install the Gatsby CLI..**
+1.  **Install the Gatsby CLI**
 
     ```
     npm install -g gatsby-cli
