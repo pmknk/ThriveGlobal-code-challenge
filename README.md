@@ -5,7 +5,7 @@
 ## Description
 The application was created for the code challenge. The application allows to embed videos and allows to add custom navigation link.
 
-##Quick start
+## Quick start
 1.  **Install the Gatsby CLI**
 
     ```
